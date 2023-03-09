@@ -1,45 +1,15 @@
-  .contenedor h2 {
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 36px;
-    color: #fff;
-    font-family: Arial, sans-serif;
+  img {
+    display: block; 
+    margin: auto; 
   }
-  .contenedor-principal {
-    width: 960px; 
+  body {
     margin: 0 auto;
-    position: relative;
-  }
-  .header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100px;
-  }
-  
-  .contenido {
-    margin-top: 120px; 
-  }
- 
-  .elemento {
-    background-image: url('file:///C:/Users/34673/OneDrive/Escritorio/SMX2-M8-WEB-BATMAN/imagenes%20Batman/header_background.jpg');
-    background-size: contain;
+    width: 50%; 
   }
   footer {
-    height: 50px;
-    width: 100%;
-    background-color: #000000;
-    color: #fff;
+    width: 20%;
+    margin: 0 auto; 
   }
-  img {
-    width: 300px;
-    height: 250px;
+  body {
+  font-family: 'Golos Text', sans-serif;
   }
- 
-  
-  
-
-
